@@ -1,0 +1,19 @@
+Susan
+3
+Red
+Black
+White
+13
+r 3
+t Red
+r 2
+t Black
+t Red
+r 5
+re Red
+re White
+r 2
+t White
+t Red
+r 3
+re Black
